@@ -1,4 +1,4 @@
-```yaml
+```t
 name = 'Georgi Hristev'
 located_in = ('Plovdiv', 'Bulgaria')
 current_job = None
