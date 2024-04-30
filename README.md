@@ -9,11 +9,11 @@ fields_of_interests:
   [
     "Web Development",
     "Python Development",
-    "Machine Learning",
+    "FrontEnd",
     "UI/UX",
     "Cybersecurity",
     "DevOps",
-    "Deep Learning",
+    "SEO",
   ]
   
 currently_learning =  ["Python"]
