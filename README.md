@@ -17,6 +17,6 @@ fields_of_interests:
   ]
   
 currently_learning =  ["Python"]
-2024 Goals: ["Create at least 1 project"]
-hobbies: ["Exploring", "Football", "Photography", "Digital Marketing"]
+2024 Goals: ["Create at least 1 BIG project"]
+hobbies: ["Exploring", "Football", "Photography", "Digital Marketing", "Fitness"]
 ``
